@@ -3,9 +3,9 @@
 
 This project demonstrates an **end-to-end Data Engineering pipeline** using **Azure Data Services**, **Databricks Delta Live Tables**, and **Power BI** to build a robust data pipeline for streaming and batch processing of Netflix data.
 
-## Architecture Overview
+# Architecture Overview -- Medalion Architecture.
 
-![Architecture Diagram](./https://github.com/jimmymuthoni/Netflix-Azure-Data-Engineering-Project/blob/ad6cb92e9e7d92f52a60a00b1647c4e82ecd3618/architecture.png)
+![Architecture Diagram](https://github.com/jimmymuthoni/Netflix-Azure-Data-Engineering-Project/blob/ad6cb92e9e7d92f52a60a00b1647c4e82ecd3618/architecture.png)
 
 ---
 
