@@ -5,7 +5,7 @@ This project demonstrates an **end-to-end Data Engineering pipeline** using **Az
 
 ## Architecture Overview
 
-![Architecture Diagram](./images/architecture.png)
+![Architecture Diagram](./https://github.com/jimmymuthoni/Netflix-Azure-Data-Engineering-Project/blob/ad6cb92e9e7d92f52a60a00b1647c4e82ecd3618/architecture.png)
 
 ---
 
